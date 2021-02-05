@@ -3,6 +3,7 @@
 ## Installation
 
 ```
+composer install --prefer-dist
 composer require herokeyboard/translate
 ```
 
