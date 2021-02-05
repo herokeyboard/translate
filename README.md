@@ -4,7 +4,10 @@
 
 ```
 composer install --prefer-dist
+
 composer require herokeyboard/translate
+
+composer require herokeyboard/translate:dev-main
 ```
 
 ## Usage
