@@ -1,5 +1,5 @@
 <?php
-namespace Herokeyboard;
+namespace Herokeyboard\Translate;
 class GoogleTranslate
 {
     public static function translate($source, $target, $text)
