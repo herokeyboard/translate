@@ -24,6 +24,7 @@
         "role": "Developer"
         }
     ],
+    "minimum-stability": "stable",
     "support": {
         "issues": "https://github.com/herokeyboard/translate/issues",
         "source": "https://github.com/herokeyboard/translate/releases"
